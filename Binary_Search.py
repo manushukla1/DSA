@@ -17,4 +17,4 @@ def binary_search(arr, item):
     return None  # Return None if the item is not found
 
 arr = [1, 2, 3, 4, 5, 987, 7, 65, 4, 443, 33]
-print(binary_search(arr, 3))  # Output: Index of 3 in sorted array
+print(binary_search(arr, 4))  # Output: Index of 3 in sorted array
